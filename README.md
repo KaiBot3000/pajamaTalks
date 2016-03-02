@@ -1,4 +1,4 @@
-![alt text](https://github.com/kaidalgleish/pajamaTalks/images/pajamaTalkBunniesBlankSmall.jpg "Pajama Talks")
+![image](images/pajamaTalkBunniesBlankSmall.jpg)
 
 ## Pajama Talks
 Lightning talks online!
