@@ -1,16 +1,22 @@
+![alt text](https://github.com/kaidalgleish/pajamaTalks/images/pajamaTalkBunniesBlankSmall.jpg "Pajama Talks")
+
 ## Pajama Talks
 Lightning talks online!
 
+[March signup sheet is here](https://docs.google.com/spreadsheets/d/1F-n4ua5IgaMGLXtsIOAM_GaCH7J-Ltd70wo3FmxDd5U/edit#gid=0)
+
 #### Structure
+
 Each speaker has 5 minutes to talk, 5 to do q/a
-5-8 speakers = 1-1.5 hours
+5-8 speakers = ~1-1.5 hours
 
 #### Topic Guidelines
+
 Any topic goes! Try to choose something you can cover lightly in the time allowed. Don't worry about going in depth; lightning talks are meant to give an overview of the topic. Sharing a slide of resources at the end is a great way to help folks who were interested learn more!
 
 #### Roles
 
-Organizer
+**Organizer**
 - Picks date
 - Makes list for speakers to sign up
     - Time slot
@@ -20,13 +26,13 @@ Organizer
 - Hosts online/sets up chatrooms
 - Sets up place to share slides
 
-Time Keeper
+**Time Keeper**
 - Gives signal at...
     - 1 minute left
     - No time
     - Cut off alarm
 
-Speakers
+**Speakers**
 - Prep a short talk
 - Do a timed practice run
 - Practice screen sharing beforehand
@@ -35,8 +41,8 @@ Speakers
 
 Google Hangouts:
 - Allows 10 active participants (first in)
-- >150 watchers
-- Allows screen sharing
+- <150 watchers
+- Allows screen sharing for slides
 - Can be live-streamed on YouTube
 - Free!
 
