@@ -7,8 +7,10 @@ Lightning talks online!
 
 #### Structure
 
-Each speaker has 5 minutes to talk, 5 to do q/a
-5-8 speakers = ~1-1.5 hours
+- Start ~10 minutes after posted time, for technical difficulties
+- Organizer/MC introduces each speaker
+- Speaker has 5 minutes to talk, 5 minutes of Q/A
+- 5-8 speakers = ~1-1.5 hours
 
 #### Topic Guidelines
 
