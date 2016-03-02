@@ -20,9 +20,7 @@ Any topic goes! Try to choose something you can cover lightly in the time allowe
 
 **Organizer**
 - Picks date
-- Makes list for speakers to sign up
-    - Time slot
-    - Topic
+- Signs up Speakers
 - Promotes
 - Hosts practice room to make sure everyone knows how to screen share, etc.
 - Hosts online/sets up chatrooms
@@ -31,13 +29,14 @@ Any topic goes! Try to choose something you can cover lightly in the time allowe
 **Time Keeper**
 - Gives signal at...
     - 1 minute left
-    - No time
-    - Cut off alarm
+    - No time (5-7 min)
+    - Cut off alarm (~7-10 min)
 
 **Speakers**
 - Prep a short talk
 - Do a timed practice run
 - Practice screen sharing beforehand
+- Give their awesome talk!
 
 #### Platform
 
