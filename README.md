@@ -3,8 +3,6 @@
 ## Pajama Talks
 Lightning talks online!
 
-####[Signup sheet is here](https://docs.google.com/spreadsheets/d/1F-n4ua5IgaMGLXtsIOAM_GaCH7J-Ltd70wo3FmxDd5U/edit?usp=sharing)
-
 #### Structure
 
 - Start ~10 minutes after posted time, for technical difficulties
@@ -25,8 +23,10 @@ Any topic goes! Try to choose something you can cover lightly in the time allowe
 - Hosts practice room to make sure everyone knows how to screen share, etc.
 - Hosts online/sets up chatrooms
 - Sets up place to share slides
+- Send out link to speakers and audience beforehand
 
 **Time Keeper**
+- Can also be organizer
 - Gives signal at...
     - 1 minute left
     - No time (5-7 min)
@@ -38,13 +38,22 @@ Any topic goes! Try to choose something you can cover lightly in the time allowe
 - Practice screen sharing beforehand
 - Give their awesome talk!
 
+**Audience**
+- Watch for the link
+- Comment/ask questions
+- Share with your friends/community!
+
 #### Platform
 
 Google Hangouts:
 - Allows 10 active participants (first in)
-- <150 watchers
-- Allows screen sharing for slides
+- Says <150 watchers, it lies. Livestream.
 - Can be live-streamed on YouTube
+- Allows screen sharing for slides
 - Free!
 
+#### Things Learned / Troubleshooting
 
+- Don't rely on just Hangouts; definitely set up livestream on YouTube even if attendance may be low.
+- Got a weird echo? If speakers wear headphones it reduces audio feedback.
+- Use a big font on slides! Screensharing isn't perfect and small type is hard to see on YouTube.
