@@ -11,5 +11,5 @@ Tuesday March 22, 2016
 - **Alena Kuczynski** - The Monty Hall Problem
 
 Due to technical and timing issues, we missed out on...
-- **Alyson Von Hardenberg** - [Staying Healthy as a Software Engineer](https://docs.google.com/presentation/d/1w-LEnYoSX1o6_WTYvkQnxheoS-y0Xl4KDqXcRyU__QY/edit?usp=sharing)
+- **Alyson van Hardenberg** - [Staying Healthy as a Software Engineer](https://docs.google.com/presentation/d/1w-LEnYoSX1o6_WTYvkQnxheoS-y0Xl4KDqXcRyU__QY/edit?usp=sharing)
 
